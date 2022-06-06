@@ -1,3 +1,3 @@
-# uicone-html-admin-dashboard
+# Uicone - HTML5 Admin Dashboard Template
 
-Admin dashboard designed with Tailwindcss.
+An admin dashboard template built with HTML5 and Tailwindcss.
