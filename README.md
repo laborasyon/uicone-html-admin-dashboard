@@ -2,14 +2,14 @@
 
 An admin dashboard template built with HTML5 and Tailwindcss.
 
-## Setup
+## 🔨 Setup
 
 Coming soon..
 
-## Feature
+## ✅ Feature
 
 Coming soon..
 
-## Pages
+## ⚡ Pages
 
 Coming soon..
